@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a Data Analytics Project<br>🌱I'm currently learning more on DSA and SQL<br>📫How to reach me : www.linkedin.com/in/ruka2710<br>⚡Fun fact : I love sketching and cooking 
+🔭I'm currently working on a Data Analytics Project<br>🌱I'm currently learning more on DSA and SQL<br>📫How to reach me : www.linkedin.com/in/ruka2710<br>⚡Fun fact : I love sketching and content creation(yt) 
 
 
 ## 🌐 Socials:
